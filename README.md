@@ -1,2 +1,2 @@
-# battleplanforios
-Ios
+# Battle-PLan
+Game
